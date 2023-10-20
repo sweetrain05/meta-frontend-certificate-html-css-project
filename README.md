@@ -5,4 +5,4 @@
 
 ### Final assignment Submitted: 
 
-![FireShot Capture 034 - Document - 127 0 0 1](https://github.com/sweetrain05/meta-frontend-certificate-html-css-project/assets/86023470/dbd94b46-5b76-4958-8499-3b3759234910)
+![FireShot Capture 035 - Document - 127 0 0 1](https://github.com/sweetrain05/meta-frontend-certificate-html-css-project/assets/86023470/e5473d6d-b1f7-4994-8e37-f1dbd2d9fc69)
